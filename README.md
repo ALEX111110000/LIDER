@@ -63,8 +63,12 @@ conda activate tensorflow_env
   ALPHA: K-means loss coefficient.
 
   RESULT_DIR: Directory to put the results.
+  
+**3. Run the program:**
 
-**3. Data available:**
+python maincode.py
+
+**4. Data available:**
 
 Data is available at https://github.com/ShiMGLab/LIDER
 
